@@ -1,0 +1,11 @@
+C:\Users\Vassilena\source\repos\OOP\ExamPrep - 22Aug\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.exe
+C:\Users\Vassilena\source\repos\OOP\ExamPrep - 22Aug\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.deps.json
+C:\Users\Vassilena\source\repos\OOP\ExamPrep - 22Aug\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.runtimeconfig.json
+C:\Users\Vassilena\source\repos\OOP\ExamPrep - 22Aug\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.runtimeconfig.dev.json
+C:\Users\Vassilena\source\repos\OOP\ExamPrep - 22Aug\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.dll
+C:\Users\Vassilena\source\repos\OOP\ExamPrep - 22Aug\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.pdb
+C:\Users\Vassilena\source\repos\OOP\ExamPrep - 22Aug\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.csprojAssemblyReference.cache
+C:\Users\Vassilena\source\repos\OOP\ExamPrep - 22Aug\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.AssemblyInfoInputs.cache
+C:\Users\Vassilena\source\repos\OOP\ExamPrep - 22Aug\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.AssemblyInfo.cs
+C:\Users\Vassilena\source\repos\OOP\ExamPrep - 22Aug\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.dll
+C:\Users\Vassilena\source\repos\OOP\ExamPrep - 22Aug\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.pdb
